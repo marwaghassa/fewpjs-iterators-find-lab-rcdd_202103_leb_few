@@ -5,9 +5,9 @@ function testFunc() {
 }
 
 function superbowlWin(records){
-  records.find(record =>record.result=="w")
   for(let i=0;i<record.length;i++){
-    if(){
-    
-  return }
-}}
+  records.find(record[i] =>record[i].result==="w")
+  return  record[i].year;
+}
+  
+}
